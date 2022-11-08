@@ -1,4 +1,4 @@
-#Musik Web App
+Musik Web App
 
 This is web project created for the purpose of learning Web Development.
 
